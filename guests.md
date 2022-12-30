@@ -13,5 +13,5 @@
 | Susan Sloan      | 3                |
 | Lilian Rasmussen | 4                |
 | Julian           | 3                |
-| Leo              | 99               |
+| Leo              | 98               |
 | Maxibon          | 5                |
